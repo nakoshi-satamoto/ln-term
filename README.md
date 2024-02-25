@@ -1,4 +1,5 @@
-![ln-term](https://github.com/nakoshi-satamoto/ln-term/assets/161100720/8e40893b-fb84-4b01-9b07-edef3f31c33a)
+
+![ln-term](https://github.com/nakoshi-satamoto/ln-term/assets/161100720/fa2b3d06-c9fa-4234-b4f9-82067d1149f7)
 
 Name: LN-Term
 
