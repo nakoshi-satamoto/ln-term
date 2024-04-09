@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Name: LN-Term
-# Author: The operator of the lightning node nakoshi-satamoto
-# Version timestamp: Block 831846
+# Author: The operator of the lightning node nakoshi-satamoto. 
+# Contributers: https://github.com/Lagrang3/ (update-after-deprecated-listpeers)
+# Version timestamp: Block 838463
 
 # Description: This is intended for use with core lightning. Execute with command "./ln-term.sh" or "watch ./ln-term.sh" for realtime monitoring. This tool shows realtime information of a lightning router including channels, channel balances, and statuses. This was inspired by the core lightning summary.py plugin, but I wanted something that was not using python having no or minimal dependencies. Python apps are a horrendous dependency nightmare with a known high risk of software supply chain compromise. Simplicity is elegance.
 
