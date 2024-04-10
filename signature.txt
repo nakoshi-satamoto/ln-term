@@ -1,8 +1,0 @@
-sha256sum of ln-term.sh version timestamp block 831846: d57e1009aa9f16e18c5b34e162285d7d70339b95a5a90e1dc13d82adc193e06c 
-
-signature: d6w7jwjmcuyympxbb1gdorjbwcugtfa45rpqbt497i8s1juj5fczy5d8fek1c6sj4edo7mua9x1hm6zhy5td8dkmf1ps83cgu4kyhgp1
-
-This hash is signed by me, using my lightning node nakoshi-satamoto public key 038e5677dc7d1ec4e9a82bd004d524b2469fedb0867e85bd1e2f5d3352957e03b7
-
-You can verify the signature of this release with the following command in Core Lightning: 
-lightning-cli checkmessage d57e1009aa9f16e18c5b34e162285d7d70339b95a5a90e1dc13d82adc193e06c d6w7jwjmcuyympxbb1gdorjbwcugtfa45rpqbt497i8s1juj5fczy5d8fek1c6sj4edo7mua9x1hm6zhy5td8dkmf1ps83cgu4kyhgp1 038e5677dc7d1ec4e9a82bd004d524b2469fedb0867e85bd1e2f5d3352957e03b7
