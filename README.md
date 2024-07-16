@@ -10,6 +10,6 @@ Dependencies: jq for parsing json.
 
 Version timestamp: Block 852379
 
-Highlights for this version update: More compact view and a slightly changed appearance, switched to sats from msats, set the numbers of balances in the top part to be lined up with each other, works with channel balances up to 999 BTC. Display of onchain BTC and PeerSwap L-BTC balance.
+Highlights for this version update: More compact view by default, and a slightly changed appearance, display of stats of the full lightning network, switched to sats from msats, set the numbers of balances in the top part to be lined up with each other, works with channel balances up to 999 BTC. Display of onchain BTC and PeerSwap L-BTC balance.
 
 If you do not use PeerSwap, you will need to disable the PeerSwap section in the script.
