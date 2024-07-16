@@ -9,4 +9,5 @@ Description: This is intended for use with core lightning. Execute with command 
 Dependencies: jq for parsing json.
 
 Version timestamp: Block 852379
+
 Highlights for this version update: More compact view and a slightly changed appearance, switched to sats from msats, set the numbers of balances in the top part to be lined up with each other, works with channel balances up to 999 BTC. Display of onchain BTC and PeerSwap L-BTC balance.
