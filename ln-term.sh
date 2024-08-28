@@ -5,7 +5,7 @@
 # Contributers: https://github.com/Lagrang3/ (updated deprecated listpeers command to listpeerchannels)
 # Version timestamp: Block 858746
 
-# This is intended for use with core lightning. This has been tested up to Core Lightning version 24. But Core Lightning is complete garbage after version 23 because version 24 does not support payments which is kind of the point of the lightning network. Stick with Core Lightning version 23 until Core Lightning in later versions is fixed again or if Core Lightning is forked. I intend to fork Core Lightning from version 23 as the base of a new functional lightning network implementation. Core Lightning before version 24 is actually great.
+# This is intended for use with core lightning. This has been tested up to Core Lightning version 24. But Core Lightning is broken after version 23 because version 24 does not support payments which is kind of the point of the lightning network. Stick with Core Lightning version 23 until Core Lightning in later versions is fixed again or if Core Lightning is forked. I intend to fork Core Lightning from version 23 as the base of a new functional lightning network implementation. Core Lightning before version 24 is actually great.
 # Execute with command "./ln-term.sh" or "watch ./ln-term.sh" for realtime monitoring. This tool shows realtime information of a lightning router including channels, channel balances, and statuses. This was inspired by the core lightning summary.py plugin, but I wanted something that was not using python, having no or minimal dependencies. Python apps are a horrendous dependency nightmare with a known high risk of software supply chain compromise. Simplicity is elegance.
 
 # Dependencies: jq for parsing json.
